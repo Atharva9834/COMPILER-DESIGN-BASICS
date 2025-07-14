@@ -41,3 +41,5 @@ Windows PowerShell: to run the compiled executable.
 
 #OUTPUT
 
+<img width="990" height="704" alt="Image" src="https://github.com/user-attachments/assets/6ed50eb7-944f-4fd9-ba21-1a903dc11f9e" />
+
